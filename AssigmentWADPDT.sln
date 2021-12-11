@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssigmentWADPDT", "AssigmentWADPDT\AssigmentWADPDT.csproj", "{CFC40904-2E5C-46FB-BD95-19275B257E37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhamThangAsmWAD", "..\PhamThangAsmWAD\PhamThangAsmWAD\PhamThangAsmWAD.csproj", "{19F8C240-A1DC-4ED9-8C5C-B7E1E3DC41A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CFC40904-2E5C-46FB-BD95-19275B257E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFC40904-2E5C-46FB-BD95-19275B257E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFC40904-2E5C-46FB-BD95-19275B257E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F8C240-A1DC-4ED9-8C5C-B7E1E3DC41A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F8C240-A1DC-4ED9-8C5C-B7E1E3DC41A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F8C240-A1DC-4ED9-8C5C-B7E1E3DC41A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F8C240-A1DC-4ED9-8C5C-B7E1E3DC41A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
